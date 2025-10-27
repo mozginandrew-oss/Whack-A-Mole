@@ -21,3 +21,14 @@ It is a PCB of exactly what it sounds like.
         - Screenshot of my progress:
       <img width="941" height="522" alt="image" src="https://github.com/user-attachments/assets/e044b5d3-6f40-4436-9203-2b6a4dc3316c" />
 
+    - Created Firmware!
+        - I coded my Whack-A-Mole game to
+            - Die after 2 seconds
+            - LEDs blink game over
+            - After 10 rounds. you win
+        - I learned the difference between void loop and void setup
+        - Screenshot of progress:
+      <img width="1365" height="593" alt="image" src="https://github.com/user-attachments/assets/11225658-6dcf-4912-8dbd-8ae740b8e0ee" />
+
+      
+
